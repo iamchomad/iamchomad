@@ -39,6 +39,41 @@ Some brands under Choomad Group:
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>My personal website — a portfolio with blog, brand showcase, music collection, resume, and a secure admin dashboard to manage everything.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://iamchomad.my.id">
+        <img src="https://img.shields.io/badge/🔗_Visit_Site-iamchomad.my.id-000000?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Wooce Novel</h3>
+      <p>A reading & writing platform under Choomad Group, founded in 2026 — a space for the community to publish, read, and enjoy novels and stories chapter by chapter.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://www.woocenovel.my.id">
+        <img src="https://img.shields.io/badge/🔗_Visit_Site-woocenovel.my.id-6C3EF5?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -59,6 +94,17 @@ Some brands under Choomad Group:
 </p>
 
 > ℹ️ Replace `iamchomad` above with your actual GitHub username if it's different, otherwise the stats cards won't load.
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://iamchomad.my.id">🌐 Website</a> ·
+  <a href="mailto:iamchoirilfk@gmail.com">📧 Email</a>
+</p>
+
+<p align="center"><i>Thanks for stopping by! ✨</i></p>
 
 ---
 
