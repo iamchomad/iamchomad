@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer · Building clean, purposeful digital experiences</h3>
 
 <p align="center">
-  <a href="https://iamchomad.my.id"><img src="https://img.shields.io/badge/Portfolio-iamchomad.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.iamchomad.my.id"><img src="https://img.shields.io/badge/Portfolio-iamchomad.my.id-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:iamchoirilfk@gmail.com"><img src="https://img.shields.io/badge/Email-iamchoirilfk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -15,7 +15,7 @@
 Hi, I'm **Choiril Ahmad**, also known online as **Mad** or **Chomad** — a Frontend Developer based in **Medan, Indonesia**. I love turning complex ideas into simple, intuitive digital experiences, and I enjoy building products end-to-end, from the interface all the way down to how the business behind it runs.
 
 - 🎨 Frontend Developer, focused on clean and purposeful UI/UX
-- 🚀 Building and maintaining my personal portfolio at **[iamchomad.my.id](https://iamchomad.my.id)**
+- 🚀 Building and maintaining my personal portfolio at **[iamchomad.my.id](https://www.iamchomad.my.id)**
 - 🎧 Currently listening to *"Sesi Potret" by eńau*
 - 🌱 Always learning, always improving
 
@@ -52,7 +52,7 @@ Some brands under Choomad Group:
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <a href="https://iamchomad.my.id">
+      <a href="https://www.iamchomad.my.id">
         <img src="https://img.shields.io/badge/🔗_Visit_Site-iamchomad.my.id-000000?style=for-the-badge" />
       </a>
     </td>
@@ -107,12 +107,3 @@ Some brands under Choomad Group:
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
 
 ---
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://iamchomad.my.id">🌐 Website</a> ·
-  <a href="mailto:iamchoirilfk@gmail.com">📧 Email</a>
-</p>
-
-<p align="center"><i>Thanks for stopping by! ✨</i></p>
